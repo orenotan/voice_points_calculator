@@ -9,7 +9,7 @@ class LandingPage extends StatefulWidget {
 
 class _LandingPageState extends State<LandingPage> {
 
-  String Player1 = "7000";
+  String Player1 = "8000";
   String Player2 = "8000";
 
   @override

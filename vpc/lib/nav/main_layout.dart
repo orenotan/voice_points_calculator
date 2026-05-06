@@ -84,7 +84,7 @@ class MainLayoutState extends State<MainLayout> {
                 InkWell(
                   onTap: () => context.go('/'),
                   child: Text(
-                    'VCP App', 
+                    'Ojama', 
                     style: GoogleFonts.inter(
                       textStyle: TextStyle(color: textColor, fontSize: 20, fontWeight: FontWeight.bold, letterSpacing: -0.5)
                     ),
